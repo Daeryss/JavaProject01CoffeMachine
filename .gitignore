@@ -1,0 +1,17 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Problems/Account and its owner/out/
+/Problems/Account and its owner/out/production/classes/
+/Problems/Check if an array is sorted ascending/out/
+/Problems/Check if an array is sorted ascending/out/production/classes/
+/Problems/Check the given numbers are different/out/
+/Problems/Check the given numbers are different/out/production/classes/
+/Problems/Does an array contain N/out/
+/Problems/Does an array contain N/out/production/classes/
+/Problems/Printing each word in a new line/out/
+/Problems/Printing each word in a new line/out/production/classes/
+/Problems/The longest ascending sequence/out/
+/Problems/The longest ascending sequence/out/production/classes/
